@@ -3809,7 +3809,7 @@ CONFIG_QMI_ENCDEC=y
 # CONFIG_VIRTUALIZATION is not set
 
 #
-# aqua config
+# aospdK setup
 #
 CONFIG_KEXEC=y
 # CONFIG_ATAGS_PROC is not set
